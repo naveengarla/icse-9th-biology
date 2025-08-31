@@ -1,8 +1,10 @@
 # ICSE Class 9 Biology Study Notes
 
-Welcome to your interactive biology course! This site is designed to help you explore, understand, and enjoy the wonders of life science. Each chapter is organized for easy navigation, with summaries, explanations, and engaging questions.
+Welcome to your interactive biology course! 
 
-## 📚 Chapters
+This site is designed to help you explore, understand, and enjoy the wonders of life science. Each chapter is organized for easy navigation, with summaries, explanations, and engaging questions.
+
+## Chapters
 
 1. [Introducing Biology](./01-Introducing%20Biology/README.md)
 2. [Cell: The Unit of Life](./02-Cell%20The%20Unit%20of%20Life/README.md)
