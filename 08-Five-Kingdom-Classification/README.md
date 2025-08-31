@@ -55,6 +55,20 @@ Learn the secret code scientists use to name every living thing on Earth.
 ### [8.6 🦁 Major Groups of Animals](8.6-major-groups-of-animals.md)
 Explore the incredible diversity of the animal kingdom, from tiny sponges to mighty mammals.
 
+### [8.7 🦴 The Great Divide: Invertebrates vs. Vertebrates](8.7-invertebrata-and-vertebrata.md)
+Learn about the fundamental split in the animal kingdom: those with a backbone and those without.
+
+---
+
+## 🎯 Quick Navigation
+- **Start Here**: [8.1 Introduction](8.1-introduction.md) - Begin your journey
+- **Classification Levels**: [8.2 Categories Higher than Species](8.2-categories-higher-than-species.md) - Understand life's hierarchy
+- **Old vs. New**: [8.3 Drawbacks of Two Kingdom Classification](8.3-drawbacks-of-two-kingdom-classification.md) - See why the old system faltered
+- **The Five Kingdoms**: [8.4 Five Kingdom Classification](8.4-five-kingdom-classification.md) - Discover the revolutionary classification system
+- **The Naming Game**: [8.5 Naming an Organism](8.5-naming-an-organism.md) - Decode the language of scientific names
+- **Animal Focus**: [8.6 Major Groups of Animals](8.6-major-groups-of-animals.md) - Dive deep into fauna
+- **The Big Split**: [8.7 Invertebrates vs. Vertebrates](8.7-invertebrata-and-vertebrata.md) - Understand the great divide
+
 ---
 
 ## 🚀 Final Note  
