@@ -8,7 +8,7 @@ markdown: kramdown
 # Navigation
 header_pages:
   - index.md
-  - 08-Five Kingdom Classification/README.md
+  - 08-Five-Kingdom-Classification/README.md
 
 # Collections
 collections:
