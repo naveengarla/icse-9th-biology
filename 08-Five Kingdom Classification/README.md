@@ -25,136 +25,129 @@ This repo contains neatly structured `.md` files for each section of the chapter
 
 ---
 
-## Table of Contents (TOC)
+# Chapter 8: Five Kingdom Classification – Table of Contents
+
+- In the Chapter
+  - Syllabus overview
+  - Main characteristics of each kingdom with examples
+  - Animalia: Non-chordates (Porifera → Echinodermata) and Chordates (all five Classes)
 
 ## 8.1 What is Species?
-<details>
-<summary>Expand</summary>
-
-- Definition of species  
-- Examples (cats, humans, plants)  
-- Cross-breeding and sterile hybrids: Mule, Hinny, Zenkey, Tigon, Geep, Pomato  
-
-</details>
+- Definition of species
+- Examples (cats, humans, plants)
+- Cross-breeding and sterile hybrids
+  - Mule, Hinny
+  - Zenkey
+  - Tigon
+  - Geep
+  - Pomato
 
 ## 8.2 Categories Higher than Species
-<details>
-<summary>Expand</summary>
-
-- Genus (House crow, Jungle crow)  
-- Family (Felidae)  
-- Order (Carnivora)  
-- Class (Mammalia)  
-- Phylum (Chordata)  
-- Kingdom (largest division)  
-
-</details>
+- Genus (House crow, Jungle crow)
+- Family (Felidae)
+- Order (Carnivora)
+- Class (Mammalia)
+- Phylum (Chordata)
+- Kingdom (largest division)
 
 ## 8.3 Drawbacks of the Old Two-Kingdom Classification
-<details>
-<summary>Expand</summary>
-
-- Linnaeus classification (Plantae, Animalia)  
-- Limitations  
-
-</details>
+- Linnaeus classification (Plantae, Animalia)
+- Limitations
 
 ## 8.4 Five Kingdom Classification
-<details>
-<summary>Expand</summary>
+- Overview of Five Kingdoms
 
-### 8.4.1 Kingdom Monera  
-- Unicellular, prokaryotic  
-- Examples: Bacteria  
+### 8.4.1 Kingdom Monera
+- Unicellular, prokaryotic
+- Examples: Bacteria (rods, spirals, spheres)
 
-### 8.4.2 Kingdom Protista (Protoctista)  
-- Unicellular, eukaryotic  
-- Examples: Amoeba, Paramecium, Euglena, Chlamydomonas  
+### 8.4.2 Kingdom Protista (Protoctista)
+- Characteristics (unicellular, eukaryotic, aquatic)
+- Examples: Amoeba, Paramecium, Euglena, Chlamydomonas
 
-### 8.4.3 Kingdom Fungi  
-- Multicellular, achlorophyllous, saprophytic  
-- Examples: Bread mould, Yeast, Toadstool, Penicillium  
+### 8.4.3 Kingdom Fungi
+- Characteristics (multicellular, achlorophyllous, saprophytic)
+- Hyphae structure, multinucleated cytoplasm
+- Examples: Bread mould, Yeast, Toadstool, Penicillium
 
-### 8.4.4 Kingdom Plantae  
-- Multicellular, autotrophic  
-- Divisions: Thallophyta, Bryophyta, Pteridophyta, Gymnosperms, Angiosperms  
+### 8.4.4 Kingdom Plantae
+- Multicellular, autotrophic
+- Divisions:
+  - Thallophyta (Algae)
+  - Bryophyta (Mosses, Liverworts)
+  - Pteridophyta (Ferns)
+  - Gymnosperms (Pines, Cycads)
+  - Angiosperms (Monocots, Dicots)
 
-### 8.4.5 Kingdom Animalia  
-- Multicellular, heterotrophic  
-- **Table 8.1**: Differences between Plantae and Animalia  
-
-</details>
+### 8.4.5 Kingdom Animalia
+- Multicellular, eukaryotic, heterotrophic
+- **Table 8.1**: Differences between Plantae and Animalia
 
 ## 8.5 Naming an Organism
-<details>
-<summary>Expand</summary>
-
-- Common names vs Scientific names  
-- Binomial nomenclature (Linnaeus)  
-- Rules of scientific names  
-- Examples: Man, Cat, Dog, Honeybee, Housefly, Peacock, Cobra, Hoopoe, Peepal, Mango, Potato, China rose, Okra, Pineapple, Lentil  
-
-</details>
+- Common names vs Scientific names
+- Binomial nomenclature (Linnaeus)
+- Rules for scientific names
+- Examples of classification:
+  - Man
+  - Cat
+  - Dog
+  - Honeybee
+  - Housefly
+  - Peacock
+  - Cobra
+  - Hoopoe
+  - Peepal
+  - Mango
+  - Potato
+  - China rose
+  - Okra
+  - Pineapple
+  - Lentil
 
 ## 8.6 Major Groups of Animals
-<details>
-<summary>Expand</summary>
-
-- Animal Kingdom divided into nine phyla  
-
-</details>
+- Animal Kingdom divided into nine phyla
 
 ## 8.7 Invertebrata and Vertebrata
-<details>
-<summary>Expand</summary>
-
-- Distinction between vertebrates and invertebrates  
-- **Table 8.2**: Differences between vertebrates and invertebrates  
-
-</details>
+- Distinction between vertebrates and invertebrates
+- **Table 8.2**: Differences between vertebrates and invertebrates
 
 ## 8.8 Invertebrate Phyla – Porifera to Echinodermata
-<details>
-<summary>Expand</summary>
-
-- 8.8.1 Phylum Porifera – Sponges, Sycon  
-- 8.8.2 Phylum Cnidaria – Hydra, Jellyfish, Corals  
-- 8.8.3 Phylum Platyhelminthes – Planaria, Tapeworm, Liver fluke  
-- 8.8.4 Phylum Nematoda – Roundworms (Ascaris, Hookworm, Eelworm)  
-- 8.8.5 Phylum Annelida – Earthworm, Leech, Nereis  
-- 8.8.6 Phylum Arthropoda – Crabs, Crayfish, Insects, Spiders  
-  - Classes: Crustacea, Myriapoda, Insecta, Arachnida  
-- 8.8.7 Phylum Mollusca – Snail, Slug, Mussel, Squid, Octopus  
-- 8.8.8 Phylum Echinodermata – Starfish, Sea urchin, Sea cucumber, Brittle star  
-
-</details>
+- 8.8.1 Phylum Porifera – Sycon, Sponges
+- 8.8.2 Phylum Cnidaria (Coelenterata) – Hydra, Jellyfish, Corals
+- 8.8.3 Phylum Platyhelminthes – Planaria, Tapeworm, Liver fluke
+- 8.8.4 Phylum Nematoda (Roundworms) – Ascaris, Hookworm, Eelworm
+- 8.8.5 Phylum Annelida (Segmented Worms) – Earthworm, Leech, Nereis
+- 8.8.6 Phylum Arthropoda
+  - General features
+  - Classes:
+    - Crustacea
+    - Myriapoda
+    - Insecta
+    - Arachnida
+- 8.8.7 Phylum Mollusca – Snail, Slug, Mussel, Oyster, Squid, Octopus
+- 8.8.8 Phylum Echinodermata – Starfish, Sea urchin, Sea cucumber, Brittle star
 
 ## 8.9 Phylum Chordata (Vertebrata)
-<details>
-<summary>Expand</summary>
+- General characteristics of chordates
+- Notochord and backbone
 
-- General characteristics of chordates  
-- Notochord and backbone  
+### 8.9.1 Class Pisces (Fishes)
+- Cartilaginous fishes
+- Bony fishes
 
-### 8.9.1 Class Pisces (Fishes)  
-- Cartilaginous fishes  
-- Bony fishes  
+### 8.9.2 Class Amphibia
+- Frogs, Toads, Salamanders
 
-### 8.9.2 Class Amphibia  
-- Frogs, Toads, Salamanders  
+### 8.9.3 Class Reptilia
+- Lizards, Snakes, Crocodiles, Tortoises
 
-### 8.9.3 Class Reptilia  
-- Lizards, Snakes, Crocodiles, Tortoises  
+### 8.9.4 Class Aves
+- Birds (Pigeon, Sparrow, Duck, Owl, Ostrich, Penguin)
 
-### 8.9.4 Class Aves  
-- Birds: Pigeon, Sparrow, Duck, Owl, Ostrich, Penguin  
+### 8.9.5 Class Mammalia
+- Humans, Cats, Dogs, Whales, Bats, Platypus, Spiny Ant-eater
 
-### 8.9.5 Class Mammalia  
-- Humans, Cats, Dogs, Whales, Bats, Platypus, Spiny Ant-eater  
-
-- **Summary table** of vertebrate classification  
-
-</details>
+- Summary table of vertebrate classification
 
 
 ---
