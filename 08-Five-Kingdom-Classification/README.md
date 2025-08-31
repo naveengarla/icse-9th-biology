@@ -58,6 +58,12 @@ Explore the incredible diversity of the animal kingdom, from tiny sponges to mig
 ### [8.7 🦴 The Great Divide: Invertebrates vs. Vertebrates](8.7-invertebrata-and-vertebrata.md)
 Learn about the fundamental split in the animal kingdom: those with a backbone and those without.
 
+### [8.8 🐠 A Grand Tour of the Invertebrates](8.8-invertebrate-phylum-porifera-to-echinodermata.md)
+Journey through the major invertebrate phyla, from simple sponges to complex insects.
+
+### [8.9 🦴 Phylum Chordata: The Rise of the Vertebrates](8.9-phylum-chordata-vertebrata.md)
+Explore the five great classes of vertebrates, from fish to mammals.
+
 ---
 
 ## 🎯 Quick Navigation
@@ -68,6 +74,8 @@ Learn about the fundamental split in the animal kingdom: those with a backbone a
 - **The Naming Game**: [8.5 Naming an Organism](8.5-naming-an-organism.md) - Decode the language of scientific names
 - **Animal Focus**: [8.6 Major Groups of Animals](8.6-major-groups-of-animals.md) - Dive deep into fauna
 - **The Big Split**: [8.7 Invertebrates vs. Vertebrates](8.7-invertebrata-and-vertebrata.md) - Understand the great divide
+- **Invertebrate Tour**: [8.8 A Grand Tour of the Invertebrates](8.8-invertebrate-phylum-porifera-to-echinodermata.md) - Meet the backbone-less wonders
+- **Vertebrate Tour**: [8.9 Phylum Chordata: The Rise of the Vertebrates](8.9-phylum-chordata-vertebrata.md) - Meet the animals with backbones.
 
 ---
 
