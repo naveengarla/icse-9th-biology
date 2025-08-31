@@ -1,3 +1,9 @@
+---
+layout: default
+title: Five Kingdom Classification
+permalink: /08-Five-Kingdom-Classification/
+---
+
 # 🧬 Decoding Life: The Five Kingdoms  
 
 ## 🔍 Why This Matters  
@@ -27,128 +33,27 @@ This repo contains neatly structured `.md` files for each section of the chapter
 
 # Chapter 8: Five Kingdom Classification – Table of Contents
 
-- In the Chapter
-  - Syllabus overview
-  - Main characteristics of each kingdom with examples
-  - Animalia: Non-chordates (Porifera → Echinodermata) and Chordates (all five Classes)
+Explore each section to uncover the fascinating world of biological classification:
 
-## 8.1 What is Species?
-- Definition of species
-- Examples (cats, humans, plants)
-- Cross-breeding and sterile hybrids
-  - Mule, Hinny
-  - Zenkey
-  - Tigon
-  - Geep
-  - Pomato
+## 📚 Chapter Sections
 
-## 8.2 Categories Higher than Species
-- Genus (House crow, Jungle crow)
-- Family (Felidae)
-- Order (Carnivora)
-- Class (Mammalia)
-- Phylum (Chordata)
-- Kingdom (largest division)
+### [8.1 🌱 Introduction: The Great Life Detective Story](8.1-introduction.md)
+Discover how scientists became detectives of life, solving the mystery of classifying millions of species on Earth.
 
-## 8.3 Drawbacks of the Old Two-Kingdom Classification
-- Linnaeus classification (Plantae, Animalia)
-- Limitations
+### [8.2 🔝 Categories Higher than Species](8.2-categories-higher-than-species.md)
+Journey through the hierarchy of life - from species to genus, family, order, class, and beyond.
 
-## 8.4 Five Kingdom Classification
-- Overview of Five Kingdoms
+### [8.3 ❌ Drawbacks of Two Kingdom Classification](8.3-drawbacks-of-two-kingdom-classification.md)
+Uncover why the old "plants vs animals" system couldn't handle life's incredible diversity.
 
-### 8.4.1 Kingdom Monera
-- Unicellular, prokaryotic
-- Examples: Bacteria (rods, spirals, spheres)
+### [8.4 🏰 Five Kingdom Classification](8.4-five-kingdom-classification.md)
+Meet the revolutionary Five Kingdom system that changed how we understand life forever.
 
-### 8.4.2 Kingdom Protista (Protoctista)
-- Characteristics (unicellular, eukaryotic, aquatic)
-- Examples: Amoeba, Paramecium, Euglena, Chlamydomonas
+### [8.5 📛 Naming an Organism](8.5-naming-an-organism.md)
+Learn the secret code scientists use to name every living thing on Earth.
 
-### 8.4.3 Kingdom Fungi
-- Characteristics (multicellular, achlorophyllous, saprophytic)
-- Hyphae structure, multinucleated cytoplasm
-- Examples: Bread mould, Yeast, Toadstool, Penicillium
-
-### 8.4.4 Kingdom Plantae
-- Multicellular, autotrophic
-- Divisions:
-  - Thallophyta (Algae)
-  - Bryophyta (Mosses, Liverworts)
-  - Pteridophyta (Ferns)
-  - Gymnosperms (Pines, Cycads)
-  - Angiosperms (Monocots, Dicots)
-
-### 8.4.5 Kingdom Animalia
-- Multicellular, eukaryotic, heterotrophic
-- **Table 8.1**: Differences between Plantae and Animalia
-
-## 8.5 Naming an Organism
-- Common names vs Scientific names
-- Binomial nomenclature (Linnaeus)
-- Rules for scientific names
-- Examples of classification:
-  - Man
-  - Cat
-  - Dog
-  - Honeybee
-  - Housefly
-  - Peacock
-  - Cobra
-  - Hoopoe
-  - Peepal
-  - Mango
-  - Potato
-  - China rose
-  - Okra
-  - Pineapple
-  - Lentil
-
-## 8.6 Major Groups of Animals
-- Animal Kingdom divided into nine phyla
-
-## 8.7 Invertebrata and Vertebrata
-- Distinction between vertebrates and invertebrates
-- **Table 8.2**: Differences between vertebrates and invertebrates
-
-## 8.8 Invertebrate Phyla – Porifera to Echinodermata
-- 8.8.1 Phylum Porifera – Sycon, Sponges
-- 8.8.2 Phylum Cnidaria (Coelenterata) – Hydra, Jellyfish, Corals
-- 8.8.3 Phylum Platyhelminthes – Planaria, Tapeworm, Liver fluke
-- 8.8.4 Phylum Nematoda (Roundworms) – Ascaris, Hookworm, Eelworm
-- 8.8.5 Phylum Annelida (Segmented Worms) – Earthworm, Leech, Nereis
-- 8.8.6 Phylum Arthropoda
-  - General features
-  - Classes:
-    - Crustacea
-    - Myriapoda
-    - Insecta
-    - Arachnida
-- 8.8.7 Phylum Mollusca – Snail, Slug, Mussel, Oyster, Squid, Octopus
-- 8.8.8 Phylum Echinodermata – Starfish, Sea urchin, Sea cucumber, Brittle star
-
-## 8.9 Phylum Chordata (Vertebrata)
-- General characteristics of chordates
-- Notochord and backbone
-
-### 8.9.1 Class Pisces (Fishes)
-- Cartilaginous fishes
-- Bony fishes
-
-### 8.9.2 Class Amphibia
-- Frogs, Toads, Salamanders
-
-### 8.9.3 Class Reptilia
-- Lizards, Snakes, Crocodiles, Tortoises
-
-### 8.9.4 Class Aves
-- Birds (Pigeon, Sparrow, Duck, Owl, Ostrich, Penguin)
-
-### 8.9.5 Class Mammalia
-- Humans, Cats, Dogs, Whales, Bats, Platypus, Spiny Ant-eater
-
-- Summary table of vertebrate classification
-
+### [8.6 🦁 Major Groups of Animals](8.6-major-groups-of-animals.md)
+Explore the incredible diversity of the animal kingdom, from tiny sponges to mighty mammals.
 
 ---
 

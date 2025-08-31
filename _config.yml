@@ -1,5 +1,5 @@
 theme: minima
-title: ICSE 9th Biology
+title: ICSE 9th Biology - Study Notes
 description: Comprehensive study materials for ICSE 9th grade Biology
 
 # Build settings
@@ -7,11 +7,14 @@ markdown: kramdown
 
 # Navigation
 header_pages:
-	- index.md
-	- 08-Five Kingdom Classification/README.md
+  - index.md
+  - 08-Five Kingdom Classification/README.md
 
 # Collections
 collections:
-	chapters:
-		output: true
-		permalink: /:collection/:name/
+  chapters:
+    output: true
+    permalink: /:collection/:name/
+
+# Force rebuild timestamp
+updated: 2025-08-31
