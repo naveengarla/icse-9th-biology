@@ -31,6 +31,7 @@ Each section below is a stop on our journey. Explore them to uncover the secrets
 | **[8.7 The Great Divide](8.7-invertebrata-and-vertebrata.md)** | Stand at the great fork in the animal road: the world of the invertebrates and the world of the vertebrates. |
 | **[8.8 A Grand Tour of the Invertebrates](8.8-invertebrate-phylum-porifera-to-echinodermata.md)** | Meet the backbone-less wonders that rule the planet, from the architects of shells to the masters of the exoskeleton. |
 | **[8.9 The Rise of the Vertebrates](8.9-phylum-chordata-vertebrata.md)** | Explore our own branch of the family tree and discover the five great classes of animals with backbones. |
+| **[8.10 Questions](8.10-exam-practice.md)** | Test Your Knowledge |
 
 ---
 
