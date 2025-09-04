@@ -11,7 +11,7 @@ This site is designed to help you explore, understand, and enjoy the wonders of 
 3. [Tissues: Plant and Animal Tissues](./03-Tissues%20Plant%20and%20Animal%20Tissues/)
 4. [The Flower](./04-The%20Flower/)
 5. [Pollination and Fertilization](./05-Pollination%20and%20Fertilization/)
-6. [Seeds: Structure and Germination](./06-Seeds%20Structure%20and%20Germination/)
+6. [Seeds: Structure and Germination](./06-Seeds-Structure-and-Germination/)
 7. [Respiration in Plants](./07-Respiration%20in%20Plants/)
 8. [Five Kingdom Classification](./08-Five-Kingdom-Classification/)
 9. [Economic Importance of Bacteria and Fungi](./09-Economic%20Importance%20of%20Bacteria%20and%20Fungi/)
