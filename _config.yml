@@ -8,6 +8,7 @@ markdown: kramdown
 # Navigation
 header_pages:
   - index.md
+  - 06-Seeds-Structure-and-Germination/README.md
   - 08-Five-Kingdom-Classification/README.md
 
 # Collections
@@ -17,4 +18,4 @@ collections:
     permalink: /:collection/:name/
 
 # Force rebuild timestamp
-updated: 2025-08-31
+updated: 2025-09-04
