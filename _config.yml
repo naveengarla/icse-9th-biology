@@ -8,6 +8,7 @@ markdown: kramdown
 # Navigation
 header_pages:
   - index.md
+  - 02-cell-the-unit-of-life/README.md
   - 06-Seeds-Structure-and-Germination/README.md
   - 08-Five-Kingdom-Classification/README.md
 
@@ -18,4 +19,4 @@ collections:
     permalink: /:collection/:name/
 
 # Force rebuild timestamp
-updated: 2025-09-04
+updated: 2025-09-13
